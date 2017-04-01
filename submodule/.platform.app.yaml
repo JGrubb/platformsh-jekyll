@@ -3,7 +3,7 @@ type: ruby:2.3
 disk: 1024
 web:
   locations:
-    "/":
+    "/submodule":
       root: "platform-jekyll-submodule/_site"
       index:
         - index.html
