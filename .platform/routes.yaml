@@ -1,7 +1,7 @@
 https://www.{default}:
   type: upstream
   upstream: jekyll_app:http
-https://www.{default}/submodule:
+https://www.{default}/submodule/:
   type: upstream
   upstream: jekyll_submodule:http
 https://{default}:
