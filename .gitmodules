@@ -1,0 +1,3 @@
+[submodule "submodule/platform-jekyll-submodule"]
+	path = submodule/platform-jekyll-submodule
+	url = git@github.com:JGrubb/platform-jekyll-submodule.git
