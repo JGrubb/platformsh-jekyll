@@ -11,5 +11,5 @@ web:
 hooks:
   build: |
     gem install bundler
-    bundle install
+    cd platform-jekyll-submodule && bundle install
     jekyll build
